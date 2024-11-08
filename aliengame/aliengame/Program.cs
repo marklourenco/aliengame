@@ -1,5 +1,5 @@
-﻿// Mark Jeremy Lourenco Rojas (233-2537)
-// Chin Tang (204-2513)
+﻿// Mark Jeremy Lourenco Rojas
+// Chin Tang
 
 namespace SpaceExplorer
 {
