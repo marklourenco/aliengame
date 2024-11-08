@@ -1,7 +1,3 @@
-Here is a `README.md` file for your **Space Explorer** game project:
-
----
-
 # Space Explorer
 
 **Space Explorer** is a console-based space exploration game written in C#. In the game, you control a spaceship that navigates through the galaxy, collecting resources, avoiding or battling aliens, and trying to reach Venus at the coordinates (5, 5).
@@ -109,6 +105,7 @@ After the shootout, the Martian was destroyed.
 
 Enter a command (move <direction>, collect <resource>, or quit):
 ```
+![aliengame gif](https://github.com/user-attachments/assets/fec13a1d-5e1d-4ec1-addf-9662c8ebf118)
 
 ## How to Run the Game
 
