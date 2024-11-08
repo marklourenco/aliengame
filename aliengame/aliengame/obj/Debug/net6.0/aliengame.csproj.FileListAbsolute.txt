@@ -1,0 +1,15 @@
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\bin\Debug\net6.0\aliengame.exe
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\bin\Debug\net6.0\aliengame.deps.json
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\bin\Debug\net6.0\aliengame.runtimeconfig.json
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\bin\Debug\net6.0\aliengame.dll
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\bin\Debug\net6.0\aliengame.pdb
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\obj\Debug\net6.0\aliengame.csproj.AssemblyReference.cache
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\obj\Debug\net6.0\aliengame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\obj\Debug\net6.0\aliengame.AssemblyInfoInputs.cache
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\obj\Debug\net6.0\aliengame.AssemblyInfo.cs
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\obj\Debug\net6.0\aliengame.csproj.CoreCompileInputs.cache
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\obj\Debug\net6.0\aliengame.dll
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\obj\Debug\net6.0\refint\aliengame.dll
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\obj\Debug\net6.0\aliengame.pdb
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\obj\Debug\net6.0\aliengame.genruntimeconfig.cache
+C:\Users\lcv2042513\Downloads\aliengame\aliengame\obj\Debug\net6.0\ref\aliengame.dll
