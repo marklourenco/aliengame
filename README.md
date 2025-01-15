@@ -112,7 +112,7 @@ Enter a command (move <direction>, collect <resource>, or quit):
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/space-explorer.git
+   git clone https://github.com/marklourenco/space-explorer.git
    ```
 
 2. Open the project in your preferred C# IDE (e.g., Visual Studio, Visual Studio Code).
